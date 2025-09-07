@@ -4,11 +4,9 @@ title: "Welcome"
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/bio_pic.jpg  # Replace with your image path
   actions:
-    - label: "View Projects"
-      url: "/projects/"
     - label: "Download Resume"
       url: "/assets/resume.pdf"
     - label: "Contact"

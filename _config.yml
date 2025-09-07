@@ -115,3 +115,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Add collection for projects
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
