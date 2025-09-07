@@ -19,7 +19,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my engineering portfolio, where I showcase some of my 
   favorite projects throughout the years.
-baseurl: "/portfolio"
+baseurl: "" # keep this empty
 url: "https://alu11221.github.io"
 #twitter_username: username
 github_username: username
