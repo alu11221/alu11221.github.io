@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Andres Lu"
-subtitle: "Portfolio"
+subtitle: "Engineering Portfolio"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my engineering portfolio, where I showcase some of my 
@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Andres Lu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/alu_del_campo.jpeg"
   bio    : "Obsessed with all things aviation. Private pilot, drone enthusiast, lifelong tinkerer."
   links:
     - label: "Website"
