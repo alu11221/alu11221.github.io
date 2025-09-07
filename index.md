@@ -17,7 +17,7 @@ excerpt: "Andres' Engineering Portfolio"
 
 # Add first feature row
 feature_row:
-  - image_path: /assets/images/robot.jpg
+  - image_path: /assets/images/bio_pic.jpg
     alt: "Line-Following Robot"
     title: "Line-Following Robot"
     excerpt: "PID-controlled autonomous robot that navigates a track."
@@ -25,7 +25,7 @@ feature_row:
     btn_label: "View Project"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/weather.jpg
+  - image_path: /assets/images/bio_pic.jpg
     alt: "IoT Weather Station"
     title: "IoT Weather Station"
     excerpt: "ESP32-based weather logger that uploads data to the cloud."
@@ -35,7 +35,7 @@ feature_row:
 
 # Add second feature row
 feature_row2:
-  - image_path: /assets/images/drone.jpg
+  - image_path: /assets/images/bio_pic.jpg
     alt: "Drone Flight Controller"
     title: "Custom Flight Controller"
     excerpt: "C-based PID flight controller for quadcopters with sensor fusion."
@@ -43,7 +43,7 @@ feature_row2:
     btn_label: "View Project"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/keyboard.jpg
+  - image_path: /assets/images/bio_pic.jpg
     alt: "Custom Mechanical Keyboard"
     title: "Hand-Wired Keyboard"
     excerpt: "Built a custom mechanical keyboard using QMK and C firmware."
