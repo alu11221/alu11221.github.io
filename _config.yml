@@ -19,6 +19,8 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my engineering portfolio, where I showcase some of my 
   favorite projects throughout the years.
+baseurl: "/portfolio"
+url: "https://andreslu.github.io"
 #twitter_username: username
 github_username: username
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
