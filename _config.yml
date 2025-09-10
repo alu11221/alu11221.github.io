@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Andres Lu"
-  avatar : "/assets/images/bio_pic.jpg"
+  avatar : "/assets/images/headshots/brown_corduroy_cropped.jpg"
   bio    : "Obsessed with all things aviation. Private pilot, drone enthusiast, lifelong tinkerer."
   links:
     - label: "Website"
