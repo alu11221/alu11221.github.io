@@ -1,0 +1,27 @@
+/* Override base body font size */
+.page.custom-font-size {
+  body {
+    font-size: 16px;        // default is ~18px
+    line-height: 1.6;       // optional: adjust for readability
+  }
+
+  /* Headings */
+  h1 {
+    font-size: 2rem;        // ~32px
+  }
+  h2 {
+    font-size: 1.75rem;
+  }
+  h3 {
+    font-size: 1.5rem;
+  }
+  h4 {
+    font-size: 1.25rem;
+  }
+  h5 {
+    font-size: 1.1rem;
+  }
+  h6 {
+    font-size: 1rem;
+  }
+}

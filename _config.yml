@@ -35,8 +35,13 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Make sure Sass is enabled and custom styles are included. This is needed for font-size limiting on desktop
+sass:
+  style: compressed
+
 include:
   - _pages
+  - assets/css
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -101,6 +106,7 @@ defaults:
       comments: true
       share: true
       related: true
+      head_custom: true
   # _pages
   - scope:
       path: "_pages"
