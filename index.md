@@ -1,17 +1,18 @@
 ---
+# Note to self: This is my front page
 layout: splash
 title: "Welcome"
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.0"
-  overlay_image: /assets/images/bio_pic.jpg  # Replace with your image path
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/DBF_2023/DBF_N5G_hero_shot_1.jpg  # Replace with your image path
   actions:
     - label: "Download Resume"
       url: "/assets/resume.pdf"
     - label: "Contact"
       url: "/contact/"
-excerpt: "Andres' Engineering Portfolio"
+excerpt: "What I've made - and what I've learned making it."
 
 feature_row:
   - image_path: /assets/images/small_pic.jpg
