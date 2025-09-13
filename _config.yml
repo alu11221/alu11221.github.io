@@ -24,6 +24,9 @@ url: "https://alu11221.github.io"
 #twitter_username: username
 github_username: username
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# Make sure Sass is enabled and custom styles are included. This is needed for font-size limiting on desktop
+sass:
+  style: compressed
 search: true
 
 # Build settings
@@ -35,13 +38,9 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Make sure Sass is enabled and custom styles are included. This is needed for font-size limiting on desktop
-sass:
-  style: compressed
-
 include:
   - _pages
-  - assets/css
+  - assets/css/custom.scss
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
