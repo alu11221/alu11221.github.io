@@ -23,7 +23,7 @@ baseurl: "" # keep this empty
 url: "https://alu11221.github.io"
 #twitter_username: username
 github_username: username
-minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Make sure Sass is enabled and custom styles are included. This is needed for font-size limiting on desktop
 sass:
   style: compressed
