@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/DBF_2023/DBF_N5G_hero_shot_1.jpg  # Replace with your image path
   actions:
-    - label: "Download Resume"
+    - label: "Resume"
       url: "/assets/resume/Resume_Andres_Lu.pdf"
 excerpt: "What I've made - and what I've learned making it."
 

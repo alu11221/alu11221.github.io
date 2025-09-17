@@ -38,7 +38,7 @@ The Laboratory for Autonomy in Data-Driven and Complex Systems (LADDCS) at The O
 As the primary technical owner of all drone hardware during my time at LADDCS (Jan 2022 - May 2023), I was responsible for maintaining and testing all in-house drone platforms, as well as creating the *BlueBird*.
 
 ## Specifications
-Basic specs are listed below. See this [Info Sheet](https://docs.google.com/document/d/1uYRVa4Ni_aAR4jvPIlAYXMj6czKm5VwpNRkhNgGF88Q/edit?usp=sharing) for more details on the *BlueBird* platform.
+Basic specifications are listed below. See this [Info Sheet](https://docs.google.com/document/d/1uYRVa4Ni_aAR4jvPIlAYXMj6czKm5VwpNRkhNgGF88Q/edit?usp=sharing) for more details on the *BlueBird* platform.
 
 | Specifications  |                                                                           |
 |-----------------|---------------------------------------------------------------------------|
