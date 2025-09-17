@@ -15,6 +15,7 @@ toc_sticky: true
 toc_label: "Jump to section"
 toc_icon: "plane-departure"
 classes: custom-font-size
+order: 4
 
 lucci_1:
   - url:        /assets/images/rc-projects/lucci/1/lucci_1.JPEG

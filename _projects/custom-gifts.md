@@ -15,6 +15,7 @@ toc_sticky: true
 toc_label: "Jump to section"
 toc_icon: "plane-departure"
 classes: custom-font-size
+order: 5
 
 hexhike_1:
   - url:        /assets/images/custom-gifts/hexhike/hex_1.JPEG

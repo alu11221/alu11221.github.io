@@ -39,10 +39,11 @@ feature_row:
 
 I am an aerospace engineer with an insatiable passion for flight. At the age of ten, I dove headfirst into model aviation, soon spending all of my spare time designing, building, and flying RC planes and drones. 
 
-This hobby led me to pursue Aerospace Engineering at The Ohio State University, with a Minor in Robotics and Autonomous Systems. I eventually found my way to Seattle,
+This hobby led me to pursue engineering at The Ohio State University, graduating in 2023 with a B.S. in Aerospace Engineering and a Minor in Robotics and Autonomous Systems. I eventually found my way to Seattle where I now work in commercial aviation, and where I have embraced my love for the outdoors. During a busy season of hiking and mountaineering, I also earned my private pilot license, turning a lifelong goal into reality. 
 
-**fill more in later**
+Today, I bring that same hands-on mindset and curiosity to every project I take on, combining technical rigor with a passion for innovation. I’m excited to keep building, learning, and contributing to the evolving world of aerospace.
 
 ---
-
+# Featured Projects
+See the [Projects](/projects/) tab for more.
 {% include feature_row %}

@@ -15,6 +15,7 @@ toc_sticky: true
 toc_label: "Jump to section"
 toc_icon: "plane-departure"
 classes: custom-font-size
+order: 3
 
 gallery:
   - url: /assets/images/bluebird/eagle_background.JPEG
