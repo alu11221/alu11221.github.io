@@ -1,7 +1,7 @@
 ---
 # Note to self: This is my front page
 layout: splash
-title: "Welcome"
+title: "My Portfolio"
 permalink: /
 header:
   overlay_color: "#000"
@@ -13,31 +13,35 @@ header:
 excerpt: "What I've made - and what I've learned making it."
 
 feature_row:
-  - image_path: /assets/images/small_pic.jpg
-    title: "Line-Following Robot"
-    excerpt: "PID robot for autonomous navigation."
-    url: "/projects/line-following-robot/"
+  - image_path: /assets/images/DBF_2023/DBF_N5G_hero_shot_4by3.jpg
+    title: "Design/Build/Fly - 2023"
+    excerpt: "Led our team to a top-10 finish in international student competition."
+    url: "/projects/DBF2023/"
     btn_label: "View Project"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/small_pic.jpg
-    title: "IoT Weather Station"
-    excerpt: "ESP32-based cloud-connected sensor system."
-    url: "/projects/weather-station/"
+  - image_path: /assets/images/P-38/me_with_P38.JPEG
+    title: "P-38 Lightning"
+    excerpt: "8-foot wingspan RC model, built entirely from scratch."
+    url: "/projects/P-38/"
     btn_label: "View Project"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/small_pic.jpg
-    title: "Flight Controller"
-    excerpt: "C-based PID flight controller with sensor fusion."
-    url: "/projects/flight-controller/"
+  - image_path: /assets/images/bluebird/bluebird_iso_background.JPEG
+    title: "IR-Imaging UAS"
+    excerpt: "Custom autonomous thermal imaging drone for wildfire research."
+    url: "/projects/bluebird/"
     btn_label: "View Project"
     btn_class: "btn--primary"
 ---
 
-Recent engineering graduate specializing in embedded systems, robotics, and software development.
+# About Me
 
-Check out my recent projects and experience below.
+I am an aerospace engineer with an insatiable passion for flight. At the age of ten, I dove headfirst into model aviation, soon spending all of my spare time designing, building, and flying RC planes and drones. 
+
+This hobby led me to pursue Aerospace Engineering at The Ohio State University, with a Minor in Robotics and Autonomous Systems. I eventually found my way to Seattle,
+
+**fill more in later**
 
 ---
 
