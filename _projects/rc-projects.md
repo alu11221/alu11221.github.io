@@ -140,10 +140,6 @@ micro777:
   - url:        /assets/images/rc-projects/micro777/777_1.JPEG
     image_path: /assets/images/rc-projects/micro777/777_1.JPEG
 
-
-
-
-
 ---
 
 ## 3D EPP Foamy
