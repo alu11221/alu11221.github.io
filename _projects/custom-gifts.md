@@ -137,12 +137,15 @@ alaska_2:
 
 ---
 
+## Intro
+I love making custom gifts for people. Here are some favorites from over the years. Unless otherwise noted, everything here is entirely my own design.
+
 ## 3D Topographic Maps
-Topo maps of memorable hikes, made from laser-cut plywood & acrylic.
+Topo maps of memorable hikes with a special someone. Made from laser-cut plywood & acrylic.
 {% include gallery id="hexhike_1" %}
-{% include gallery id="hexhike_2" %}
+{% include gallery id="hexhike_2" caption="Oeschinensee, Switzerland" %}
 {% include gallery id="hexhike_3" %}
-{% include gallery id="hexhike_4" %}
+{% include gallery id="hexhike_4" caption="Mendenhall Glacier, Alaska" %}
 
 ## Majestic Theatre Lamp
 A celebration of my sister's favorite musical - The Phantom of the Opera. 3D printed letters with ~80 individual LEDs.
@@ -166,11 +169,11 @@ A miniature 3D printed version of my friend's Nikon D7200, complete with a remov
 {% include gallery id="tinycamera_3" %}
 
 ## I Am Groot
-For my sister in her Marvel era. Plus, I was really excited to use my first 3D printer (Anet A8, built from a kit in 2017).
+For my sister in her Marvel era. STL file from Thingiverse, airbrushed and decorated with fake moss. I was really excited to use my first 3D printer (Anet A8, built from a kit in 2017).
 {% include gallery id="groot_1" layout="half" %}
 
 ## AP Calc AB Lamp
-Made four identical units for my high school friends as an inside joke.
+Made four identical units for my high school friends as an inside joke. 3D printed with bluetooth-controlled LEDs.
 {% include gallery id="apcalcab_1" %}
 {% include gallery id="apcalcab_2" %}
 

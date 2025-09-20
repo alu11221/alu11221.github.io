@@ -1,6 +1,6 @@
 ---
 title: "Misc. RC Projects"
-excerpt: "An assortment of RC projects from over the years."
+excerpt: "An assortment of personal RC projects from over the years."
 layout: single
 collection: projects
 permalink: /projects/rc-projects/
@@ -144,10 +144,11 @@ micro777:
 ---
 
 ## 3D EPP Foamy
-Lightweight, durable, aerobatic park-flyers. Three versions of my design shown below.
+Lightweight, durable, aerobatic park-flyers. 6mm EPP foam with carbon fiber bracing. I designed, painted, and built the three versions shown below.
+
 ### Version 1
 {% include gallery id="lucci_1" %}
-{% include gallery id="lucci_1_2" %}
+{% include gallery id="lucci_1_2" caption="Photo credit: Nick Neiger, a good friend of mine" %}
 
 ### Version 2
 {% include gallery id="lucci_2" layout="half" %}
@@ -163,16 +164,16 @@ DIY circuit and modified propellers, powered wirelessly to avoid the need for a 
 {% include gallery id="ledprops_2" %}
 
 ## FPV Quadcopters
-A sampling of my FPV drones from over the years.
+A sampling of my FPV drones from over the years. Off-the-shelf parts, assembled and tuned by yours truly.
 {% include gallery id="quads" %}
 
 ## Micro SuperSTOL
-Micro model of a Just Aircraft SuperSTOL bush plane with functional flaps and bungee gear.
+Micro model of a Just Aircraft SuperSTOL bush plane with functional flaps and bungee gear. My design, built from 3mm depron foam. 
 {% include gallery id="superstol" %}
 {% include gallery id="superstol_2" %}
 
 ## Micro 777
-Simple 3-channel models, 1s LiPo powering 2x 6mm brushed motors with propellers and ducts taken from a micro quadcopter. 
+Simple 3-channel models, my design. 1s LiPo powering 2x 6mm brushed motors with propellers and ducts taken from a micro quadcopter. 
 {% include gallery id="micro777" %}
 
 ## Vintage Radio Modernization
