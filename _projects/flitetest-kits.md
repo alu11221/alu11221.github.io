@@ -15,7 +15,7 @@ toc_sticky: true
 toc_label: "Jump to section"
 toc_icon: "plane-departure"
 classes: custom-font-size
-order: 6
+order: 5
 
 x29:
   - url:        /assets/images/flitetest-kits/X29/x29_1.JPEG
