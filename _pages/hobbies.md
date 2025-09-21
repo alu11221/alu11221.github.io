@@ -68,7 +68,7 @@ As a kid, I always wanted to be a pilot. I first tried in 2021, but as a college
 {% include gallery id="rv12_2" caption="On final approach to Paine Field. Photo credit: Nick Neiger" %}
 
 ## Hiking
-Aside from flying and tinkering, I have also discovered a passion for the outdoors. Growing up in Ohio, I didn't understand the allure of hiking - it's just walking, but harder. What was there to see, anyways? 
+Aside from flying and tinkering, I have also discovered a passion for the outdoors. Growing up in Ohio, I didn't understand the allure of hiking - it's just walking, but harder. What's there to see, anyways? 
 
 Things started changing when I moved to San Francisco for a summer internship. On the long drive from Ohio, I was astounded by the ever-changing landscapes around me. I started through familiar cornfields, then moved on to rolling hills, dramatic plateaus, and striking mountains as I drove further west. I visited the Great Salt Lake and the Bonneville Salt Flats of Utah and couldn't believe my eyes at Lake Tahoe before I finally arrived in SF. Soon after, I took a trip to Yosemite National Park with a few friends, and went on my first "real" hike to North Dome. I was very much unprepared - I wore old white sneakers and ran out of water - but it got me hooked.
 
@@ -82,6 +82,6 @@ Fast forward a few years. I'm now living in the PNW, and you're more likely to f
 {% include gallery id="baker_2" caption="Catching sunrise from the summit of Mt. Baker." %}
 
 ## Photography
-I am also a casual photographer, sometimes bringing my camera on hikes or planespotting with friends at local airports. 
+I recently got into photography, sometimes bringing my camera on hikes or planespotting with friends at local airports. I still have a lot to learn, but even casual photography has been a ton of fun. 
 
 {% include gallery id="photography" layout="single" %}
