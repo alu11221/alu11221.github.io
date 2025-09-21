@@ -5,8 +5,8 @@ title: "My Portfolio"
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/DBF_2023/DBF_N5G_hero_shot_1.jpg  # Replace with your image path
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/P-38/me_with_P38_splash_crop.JPEG  # Replace with your image path
   actions:
     - label: "Resume"
       url: "/assets/resume/Resume_Andres_Lu.pdf"
