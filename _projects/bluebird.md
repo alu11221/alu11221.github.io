@@ -7,8 +7,8 @@ permalink: /projects/bluebird/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bluebird/bluebird_iso_background.JPEG
-  teaser: /assets/images/bluebird/bluebird_iso_background.JPEG
+  overlay_image: /assets/images/bluebird/bluebird_teaser.JPEG
+  teaser: /assets/images/bluebird/bluebird_teaser.JPEG
 author_profile: true
 toc: true
 toc_sticky: true

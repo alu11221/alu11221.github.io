@@ -13,21 +13,21 @@ header:
 excerpt: "What I've made - and what I've learned making it."
 
 feature_row:
-  - image_path: /assets/images/DBF_2023/DBF_N5G_hero_shot_4by3.jpg
+  - image_path: /assets/images/DBF_2023/DBF_N5G_hero_shot_16by9.jpg
     title: "Design/Build/Fly - 2023"
     excerpt: "Led our team to a top-10 finish in international student competition."
     url: "/projects/DBF2023/"
     btn_label: "View Project"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/P-38/me_with_P38.JPEG
+  - image_path: /assets/images/P-38/me_with_P38_splash_crop.JPEG
     title: "P-38 Lightning"
     excerpt: "8-foot wingspan RC model, built entirely from scratch."
     url: "/projects/P-38/"
     btn_label: "View Project"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/bluebird/bluebird_iso_background.JPEG
+  - image_path: /assets/images/bluebird/bluebird_teaser.JPEG
     title: "IR-Imaging UAS"
     excerpt: "Custom autonomous thermal imaging drone for wildfire research."
     url: "/projects/bluebird/"

@@ -7,15 +7,15 @@ permalink: /projects/rc-projects/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/rc-projects/lucci/1/lucci_2.JPEG
-  teaser: /assets/images/rc-projects/lucci/1/lucci_2.JPEG
+  overlay_image: /assets/images/rc-projects/lucci/1/lucci_teaser.JPEG
+  teaser: /assets/images/rc-projects/lucci/1/lucci_teaser.JPEG
 author_profile: true
 toc: true
 toc_sticky: true
 toc_label: "Jump to section"
 toc_icon: "plane-departure"
 classes: custom-font-size
-order: 4
+order: 6
 
 lucci_1:
   - url:        /assets/images/rc-projects/lucci/1/lucci_1.JPEG

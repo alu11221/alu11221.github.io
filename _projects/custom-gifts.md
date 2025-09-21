@@ -7,15 +7,15 @@ permalink: /projects/custom-gifts/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/custom-gifts/hexhike/hex_3.JPEG
-  teaser: /assets/images/custom-gifts/hexhike/hex_3.JPEG
+  overlay_image: /assets/images/custom-gifts/hexhike/hex_teaser.JPEG
+  teaser: /assets/images/custom-gifts/hexhike/hex_teaser.JPEG
 author_profile: true
 toc: true
 toc_sticky: true
 toc_label: "Jump to section"
 toc_icon: "plane-departure"
 classes: custom-font-size
-order: 5
+order: 7
 
 hexhike_1:
   - url:        /assets/images/custom-gifts/hexhike/hex_1.JPEG
